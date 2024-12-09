@@ -3665,7 +3665,7 @@ input, select, textarea {
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #040404;
+			color: #ffffff;
 		}
 
 		#nav blockquote {
@@ -3725,7 +3725,7 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #040404;
+					background-color: #ffffff;
 				}
 
 					#nav ul.links li.active a {
