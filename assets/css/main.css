@@ -3609,7 +3609,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		color: #ffffff;
+		color: #040404;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3665,7 +3665,7 @@ input, select, textarea {
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #ffffff;
+			color: #040404;
 		}
 
 		#nav blockquote {
